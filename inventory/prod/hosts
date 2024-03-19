@@ -1,6 +1,7 @@
 [ubuntu]
-192.168.104.85	ansible_connection=ssh ansible_user=omilisadmin
-localhost	ansible_connection=local
+192.168.105.48 ansible_connection=ssh ansible_user=omilisadmin
+192.168.105.200
+
 
 [debian]
-192.168.104.100	ansible_connection=ssh	ansible_user=omilisadmin
+192.168.105.48 ansible_connection=ssh ansible_user=omilisadmin
